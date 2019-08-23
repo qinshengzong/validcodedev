@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="codedev" />
+        <module name="conver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="codedev" target="1.8" />
+      <module name="conver" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
