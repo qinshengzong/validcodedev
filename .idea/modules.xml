@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/codedev/codedev.iml" filepath="$PROJECT_DIR$/codedev/codedev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comaction/comaction.iml" filepath="$PROJECT_DIR$/comaction/comaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/comtestdrive/comtestdrive.iml" filepath="$PROJECT_DIR$/comtestdrive/comtestdrive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comtrand.iml" filepath="$PROJECT_DIR$/.idea/modules/comtrand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comtrand.main.iml" filepath="$PROJECT_DIR$/.idea/modules/comtrand.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comtrand.test.iml" filepath="$PROJECT_DIR$/.idea/modules/comtrand.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/conver/conver.iml" filepath="$PROJECT_DIR$/conver/conver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transet/transet.iml" filepath="$PROJECT_DIR$/transet/transet.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/validcodedev.iml" filepath="$PROJECT_DIR$/.idea/validcodedev.iml" />
     </modules>
   </component>

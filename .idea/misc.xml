@@ -9,8 +9,11 @@
         <option value="$PROJECT_DIR$/codedev/pom.xml" />
         <option value="$PROJECT_DIR$/conver/pom.xml" />
         <option value="$PROJECT_DIR$/comtestdrive/pom.xml" />
+        <option value="$PROJECT_DIR$/comaction/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/transet/output" />
+  </component>
 </project>

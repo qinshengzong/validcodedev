@@ -8,12 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="codedev" />
         <module name="comtestdrive" />
+        <module name="comaction" />
         <module name="conver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="codedev" target="1.8" />
+      <module name="comaction" target="1.5" />
       <module name="comtestdrive" target="1.5" />
+      <module name="comtrand.main" target="1.8" />
+      <module name="comtrand.test" target="1.8" />
       <module name="conver" target="1.5" />
     </bytecodeTargetLevel>
   </component>
